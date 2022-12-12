@@ -136,23 +136,5 @@
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
   </tr>
 </table>
-
-# 📈 Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=michalosman&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
-/>
