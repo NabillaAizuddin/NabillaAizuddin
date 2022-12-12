@@ -1,12 +1,13 @@
 # 👋 Hi there
 
 <div align="justify">
-    My name is Nabilla and I am interested in applying and learning everything related to Web Development. I also enjoy learning about new technology that I may use to address problems in the real world.
+    My name is Nabilla and I am equipped with knowledge in HTML, CSS, JavaScript and SQL. I have a great interest in applying and learning everything related to Web Development. I also enjoy learning about new technology that I may use to address problems in the real world. 
+    
 </div>
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools 
 
-<table>
+#### <table>
   <tr>
     <td align="center" height="108" width="108">
       <img
