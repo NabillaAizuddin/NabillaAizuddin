@@ -1,7 +1,7 @@
-# 👋 Hey there
+# 👋 Hi there
 
 <div align="justify">
-    My name is Nabilaa and I am interested in applying and learning everything related to Web Development. I also enjoy learning about new technology that I may use to address problems in the real world.
+    My name is Nabilla and I am interested in applying and learning everything related to Web Development. I also enjoy learning about new technology that I may use to address problems in the real world.
 </div>
 
 # 🔧 Technologies & Tools
