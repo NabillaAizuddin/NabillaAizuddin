@@ -5,9 +5,9 @@
     
 </div>
 
-### 🔧 Technologies & Tools (including both current and learning!)
+## 🔧 Technologies & Tools (including both current and learning!)
 
-<table>
+######<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
